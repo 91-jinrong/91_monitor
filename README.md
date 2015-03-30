@@ -1,6 +1,5 @@
-# 91_monitor  -- 91jinrong
-
-91Monitor is an open source MySQL / REDIS monitoring tool for 91jinrong.com . 
+# 91_monitor 
+91Monitor is an open source MySQL / REDIS monitoring tool
 
 It is licensed under the Apache 2.0 license.
 
